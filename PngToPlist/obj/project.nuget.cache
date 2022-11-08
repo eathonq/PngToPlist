@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+64lJWDA7Ez/1Q3TE9DYSHpkNkXRcnn60tBjqzZU2FUIjq5Ws13Fm2x8dbjt1tIcAm5ZP67kP1H8443f/ePAuQ==",
+  "success": true,
+  "projectFilePath": "D:\\work\\c#\\wpf\\PngToPlist\\PngToPlist\\PngToPlist.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\communitytoolkit.mvvm\\8.0.0\\communitytoolkit.mvvm.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
